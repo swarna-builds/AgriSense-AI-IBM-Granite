@@ -1,0 +1,13 @@
+﻿{
+  "project_name": "AgriSense AI",
+  "domain": "Agriculture",
+  "model": "ibm/granite-4-h-small",
+  "orchestration": "Multi-Agent System with RAG",
+  "framework": "Watsonx AI SDK / Langflow",
+  "components": [
+    "SentinelDaemon",
+    "GraniteEngine",
+    "AgriRAGService",
+    "VisionService"
+  ]
+}

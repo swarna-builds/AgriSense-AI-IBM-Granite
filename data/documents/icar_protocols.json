@@ -1,0 +1,34 @@
+[
+  {
+    "crop": "Tomato",
+    "topic": "Early Blight & Yellowing Leaves",
+    "symptoms": "Lower leaves turning yellow with dark concentric rings or brown spots.",
+    "recommendation": "Spray Mancozeb 75% WP @ 2g/liter or Copper Oxychloride 50% WP @ 2.5g/liter. Avoid wetting foliage during irrigation.",
+    "source": "ICAR-IIHR Tomato Disease Management Guide 2024",
+    "dosages": "Mancozeb: 2g/L water, Copper Oxychloride: 2.5g/L water"
+  },
+  {
+    "crop": "Tomato",
+    "topic": "Irrigation & Waterlogging",
+    "symptoms": "Heavy rainfall predicted or standing water in root zones.",
+    "recommendation": "Stop drip irrigation immediately. Open field boundary trenches to drain excess water. Do not apply nitrogen fertilizers while soil is saturated.",
+    "source": "ICAR-CRIDA Agromet Advisory Protocol",
+    "dosages": "N/A"
+  },
+  {
+    "crop": "Maize",
+    "topic": "Fall Armyworm (FAW)",
+    "symptoms": "Ragged feeding holes on whorl leaves with sawdust-like frass.",
+    "recommendation": "Apply whorl application of Emamectin Benzoate 5% SG @ 0.4g/liter of water or Chlorantraniliprole 18.5% SC @ 0.4ml/liter.",
+    "source": "ICAR-IIMR Fall Armyworm Management Guidelines",
+    "dosages": "Emamectin Benzoate: 0.4g/L water"
+  },
+  {
+    "crop": "Tomato",
+    "topic": "Fertilizer Schedule (30-45 Days)",
+    "symptoms": "Vegetative to early flowering stage nutrient needs.",
+    "recommendation": "Top dress with Urea @ 25kg/acre and MOP (Muriate of Potash) @ 15kg/acre if soil moisture is adequate. For red soil, apply Zinc Sulphate 0.5% foliar spray if interveinal chlorosis appears.",
+    "source": "ICAR Package of Practices for Vegetable Crops",
+    "dosages": "Urea: 25kg/acre, MOP: 15kg/acre"
+  }
+]
